@@ -1,0 +1,1 @@
+This  is  just to test the concept of GIT and  have copied some files from my eclplse  project  "First java  project" in this folder
